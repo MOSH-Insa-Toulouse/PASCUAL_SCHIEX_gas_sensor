@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name DemoShield-rescue)(type Legacy)(uri ${KIPRJMOD}/DemoShield-rescue.lib)(options "")(descr ""))
+)
